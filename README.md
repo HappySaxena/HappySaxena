@@ -26,7 +26,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=HappySaxena&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## ✍️ Random Dev Quote
+## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 

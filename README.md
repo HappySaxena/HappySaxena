@@ -16,7 +16,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats:
+## 📊GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HappySaxena&show_icons=true&theme=radical)
 
